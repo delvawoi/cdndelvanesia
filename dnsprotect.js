@@ -1,5 +1,5 @@
 document.onmousedown=disableclick;
-status="Clone Blokir Ang";
+status="Clone Blokir ajg";
 Function disableclick(e)
 {
   if(event.button==2)
